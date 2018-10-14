@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "dlive": "vuepress dev docs",
+        "dbuild": "vuepress build docs"
+    },
+    "devDependencies": {
+        "@iktakahiro/markdown-it-katex": "^3.0.4",
+        "vuepress": "^0.14.4"
+    }
+}
